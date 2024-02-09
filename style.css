@@ -8,3 +8,19 @@ h1 {
     display: flex;
     justify-content: center;
 }
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+.image-container img {
+width: 250px;
+margin-right: 20px;
+margin-top: 20px;
+border-radius: 10px;
+}
+body{
+    background-image: url('papel.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: black;
+}
